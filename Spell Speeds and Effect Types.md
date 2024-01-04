@@ -2,7 +2,7 @@
 
 ## Monster Effect Types
 
-The game has the following monster effect types:
+The game has the following Monster effect types:
 
 ### Continuous effects
 
@@ -18,7 +18,7 @@ was immediately destroyed).
 > [!NOTE]
 > **Creates a Chain Link**
 
-These are Spell Speed 1 effects that happen when a specific condition is met (they "trigger"). 
+These are Spell Speed 1 effects that activate when a specific condition is met (they "trigger"). 
 They can be either *mandatory* or *optional* (You can tell when an effect is optional if it includes 
 the words "You can"). Flip Effects are a special kind of Trigger Effect. Trigger effects _can_ 
 activate during the non-turn player's turn, depending on the trigger condition of the card.
@@ -45,26 +45,39 @@ Kuriboh has a Quick Effect)
 
 ## Spell/Trap Effect Types
 
-Much like monster effects, Spell/Trap effects can also be split into the following effect types:
+Much like Monster effects, Spell/Trap effects also have effect types, pretty much equivalent to these of Monster effect types:
 
-* Continuous effects
-* Trigger-like effects
-* Ignition-like effects
-* Quick-like effects
+* Continuous effects - Found in Continuous Spell/Trap cards, Field Spell cards and Equip Spell cards
+* Trigger-like effects - Found in Continuous Spell/Trap cards
+* Ignition-like effects - Found in Continuous Spell cards
+* Quick-like effects - Found mostly in Trap cards
 
-Same things apply, as monster effects.
+Same things apply, as in Monster effects types.
 
 
-## Spell Speeds
+## Spell Speed Tiers
 
-The term "Spell Speed" describes when you can activate certain cards or effects.
+The term "Spell Speed" describes when you can activate certain cards or effects. There are 3 tiers of Spell Speed in the game:
 
 ### Spell Speed 1
 
-* Includes normal Spells and Trigger and Ignition effects. 
-* Spell Speed 1 effects can only start a chain and they cannot be chained to Spell Speed 2 and Spell Speed 3 effects.
+Includes Normal, Continuous, Equip, Field and Ritual Spell cards, Trigger and Ignition Monster effects, Trigger-like and Ignition-like Spell/Trap effects.
+
+* Spell Speed 1 effects can only start a Chain and they cannot be chained to Spell Speed 2 and Spell Speed 3 effects.
 * If 2 or more Spell Speed 1 effects happen simultaneously then they do chain with each other in the following order (also known as "**SEGOC**" - Simultaneous Effects Go On Chain):
   1. **Turn player's mandatory effects first**. If there's more than 1 the turn player chooses the order.
   2. **Non-turn player's mandatory effects**. If there's more than 1 the non-turn player chooses the order.
   3. **Turn player's optional effects**. If there's more than 1 the turn player chooses the order.
   4. **Non-turn player's optional effects**. If there's more than 1 the non-turn player chooses the order.
+
+### Spell Speed 2
+
+Includes Quick Play Spell cards, Normal and Continuous Trap cards, Quick Monster effects, Quick-like Spell/Trap card effects.
+
+* Spell Speed 2 effects can start or add to a Chain and they can be chained to Spell Speed 1 and Spell Speed 2 effects.
+
+### Spell Speed 3
+
+Includes Counter Trap cards.
+
+* Spell Speed 3 effects can start or add to a Chain and they can be chained to Spell Speed 1 Spell Speed 2 and other Spell Speed 3 effects.
