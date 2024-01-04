@@ -11,16 +11,19 @@ For GOAT specific rulings and interactions you can read the following:
 
 This is just a table of contents for reference, there is no specific read order
 
-* [Turn Flowchart]
-* [Spell Speeds and Effect Types](./Spell%20Speeds%20and%20Effect%20Types.md)
-* [Missing Timing](./Missing%20Timing.md)
+* [Priority](./contents/Priority.md)
+* [Spell Speeds and Effect Types](./contents/Spell%20Speeds%20and%20Effect%20Types.md)
+* [Missing Timing](./contents/Missing%20Timing.md)
+* [Damage Step Rules](./contents/Damage%20Step%20Rules.md)
 
 
 ## Official Konami sources
 
-* [Problem Solving Text Part 1](https://yugiohblog.konami.com/articles/?p=2906)
-* [Problem Solving Text Part 2](https://yugiohblog.konami.com/articles/?p=2915)
-* [**Problem Solving Text Part 3**](https://yugiohblog.konami.com/articles/?p=2947)
-* [Problem Solving Text Part 4](https://yugiohblog.konami.com/articles/?p=2962)
-* [Problem Solving Text Part 5](https://yugiohblog.konami.com/articles/?p=3111)
-* [Problem Solving Text Part 7](https://yugiohblog.konami.com/articles/?p=4514)
+* [Problem Solving Text Part 2: New Words & Phrases](https://www.yugioh-card.com/eu/play/understanding-card-text/part-2-new-words-phrases/)
+* [**Problem Solving Text Part 3: Conditions, Activations, and Effects**](https://www.yugioh-card.com/eu/play/understanding-card-text/part-3-conditions-activations-and-effects/)
+* [Problem Solving Text Part 4: The Clues on Your Cards](https://www.yugioh-card.com/eu/play/understanding-card-text/part-4-the-clues-on-your-cards/)
+* [Problem Solving Text Part 5: Special Summons](https://www.yugioh-card.com/eu/play/understanding-card-text/part-5-special-summons/)
+* [Problem Solving Text Part 7: Conjunction Functions](https://www.yugioh-card.com/eu/play/understanding-card-text/part-7-conjunction-functions/)
+
+* [Fast effects & timing](https://www.yugioh-card.com/eu/play/fast-effect-timing/)
+* [Damage step rules](https://www.yugioh-card.com/eu/play/damage-step-rules/)
