@@ -1,12 +1,12 @@
 # Missing Timing
 
-Certain card effects (that includes both Monster and Spell/Trap card effects) can "miss timing".
+Certain card effects (that includes both Monster and Spell/Trap card effects) can "miss timing". To put it simply
 
-To put it simply if a card effect's activation condition says "_When ..._" this automatically means that 
+* If a card effect's activation condition says "_When ..._" this automatically means that 
 in order for the activation condition to be satisfied and activate the card/effect the condition described 
 **must** be the last thing that happens in the Chain.
 
-If a card effect's activation condition says  "_If ..._" this means that no matter if the activation 
+* If a card effect's activation condition says  "_If ..._" this means that no matter if the activation 
 condition was or wasn't the last thing to happen in the chain, the effect can still be activated in 
 a new chain once the current chain resolves.
 
