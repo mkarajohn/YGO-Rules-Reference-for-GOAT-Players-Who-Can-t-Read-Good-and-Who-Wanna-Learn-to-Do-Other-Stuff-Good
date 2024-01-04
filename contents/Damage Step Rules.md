@@ -16,6 +16,12 @@ For a more detailed breakdown read [this](https://www.goatformat.com/basics.html
 > In current Yu-Gi-Oh!, an unlimited number of Chains can be activated during the Damage Step, in 
 > the "before damage calculation" window. In Goat Format, **only one Chain can occur during each substep of the Damage Step** 
 > (unless the resolution of one Chain triggers some other effect).
+> 
+> e.g. The attacking player activates Limiter Removal during the "**Before Damage Calculation**" 
+> sub-step of their Damage step. The other player responds with Magic Jammer. If the Chain ends there
+> and Limiter Removal gets negated the attacking player cannot activate any more Limiter Removal cards 
+> during "**Before Damage Calculation**" and since Limiter Removal cannot be activated during 
+> "**Damage Calculation**" they completely lose their chance in increasing their Monsters' attack
 
 
 For reference here is the same table for **Advanced Format**
