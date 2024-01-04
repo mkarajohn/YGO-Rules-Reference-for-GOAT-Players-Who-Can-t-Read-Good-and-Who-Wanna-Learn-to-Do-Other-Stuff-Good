@@ -15,6 +15,7 @@ This is just a table of contents for reference, there is no specific read order
 * [Spell Speeds and Effect Types](./contents/Spell%20Speeds%20and%20Effect%20Types.md)
 * [Missing Timing](./contents/Missing%20Timing.md)
 * [Damage Step Rules](./contents/Damage%20Step%20Rules.md)
+* [Chains](./contents/Chains.md)
 
 
 ## Official Konami sources
