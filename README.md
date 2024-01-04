@@ -17,7 +17,7 @@ This is just a table of contents for reference, in no specific order
 * [Damage Step Rules](./contents/Damage%20Step%20Rules.md)
 * [Chains](./contents/Chains.md)
 * [Costs, Activations and Targeting](./contents/Costs%20Activations%20and%20Targeting.md)
-
+* ["Then", "Also", "And if you do", "And"](./contents/%22Then%22,%20%22Also%22,%20%22And%20if%20you%20do%22,%20%22And%22.md)
 
 ## Official Konami sources
 
