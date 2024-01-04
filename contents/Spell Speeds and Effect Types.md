@@ -24,7 +24,7 @@ the words "You can"). Flip Effects are a special kind of Trigger Effect. Trigger
 activate during the non-turn player's turn, depending on the trigger condition of the card.
 
 > [!IMPORTANT] 
->Trigger effects [can miss timing](./Missing%20Timing.md)
+>Some Trigger effects [can miss timing](./Missing%20Timing.md)
 
 ### Ignition effects
 
