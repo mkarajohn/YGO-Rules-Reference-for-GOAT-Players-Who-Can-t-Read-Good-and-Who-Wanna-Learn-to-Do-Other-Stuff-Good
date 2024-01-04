@@ -12,7 +12,8 @@ For GOAT specific rulings and interactions you can read the following:
 This is just a table of contents for reference, in no specific order
 
 * [Priority](./contents/Priority.md)
-* [Spell Speeds and Effect Types](./contents/Spell%20Speeds%20and%20Effect%20Types.md)
+* [Spell Speeds](./contents/Spell%20Speeds.md)
+* [Effect Types](./contents/Effect%20Types.md)
 * [Missing Timing](./contents/Missing%20Timing.md)
 * [Damage Step Rules](./contents/Damage%20Step%20Rules.md)
 * [Chains](./contents/Chains.md)
