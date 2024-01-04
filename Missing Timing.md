@@ -1,6 +1,6 @@
 # Missing Timing
 
-Certain card effects (that includes both Monster/Spell/Trap cards) can "miss timing".
+Certain card effects (that includes both Monster and Spell/Trap card effects) can "miss timing".
 
 To put it simply if a card effect's activation condition says "When ..." this automatically means that 
 in order for the activation condition to be satisfied and activate the card/effect the condition described 
@@ -43,7 +43,7 @@ Dark Magician of Chaos text reads:
 ## Example 3: "If" not missing the timing
 
 1. Opponent activates Mystical Space Typhoon targeting turn player's set Call of the Haunted. (Chain Link 1)
-2. Turn during their Main Phase, as Chain Link 1, in order to summon Sacred Crane. (Chain Link 2)
+2. Turn player activates Call of the Haunted, in order to summon Sacred Crane. (Chain Link 2)
 
 Sacred Crane text reads:
 
