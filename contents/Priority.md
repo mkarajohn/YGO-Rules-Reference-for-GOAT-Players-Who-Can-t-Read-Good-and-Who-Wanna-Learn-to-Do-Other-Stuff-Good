@@ -1,8 +1,8 @@
 # Priority
 
 * Players have priority, not cards
-* The turn player **always** has priority to do the first action during each of their turn phases
-* The turn player **passes priority** to the non-turn player **every time they decide to end their current turn phase**. This even includes the steps of the Battle Phase and _even_ the sub-steps of the Damage Step
+* The turn player **always** has priority to do the first action during each of their turn phases. This even includes the steps of the Battle Phase and _even_ the sub-steps of the Damage Step
+* The turn player **passes priority** to the non-turn player **every time they decide to end their current turn phase**. This even includes the steps of the Battle Phase and _even_ the sub-steps of the Damage Step.
 
 ## Some things to keep in mind
 
