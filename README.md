@@ -16,6 +16,7 @@ This is just a table of contents for reference, in no specific order
 * [Missing Timing](./contents/Missing%20Timing.md)
 * [Damage Step Rules](./contents/Damage%20Step%20Rules.md)
 * [Chains](./contents/Chains.md)
+* [Costs, Activations and Targeting](./contents/Costs%20Activations%20and%20Targeting.md)
 
 
 ## Official Konami sources
