@@ -1,6 +1,6 @@
 # Missing Timing
 
-Certain card effects (that includes both Monster and Spell/Trap card effects) can "miss timing". To put it simply
+Certain cards/card effects (that includes both Monster effects and Spell/Trap cards/card effects) can "miss timing". To put it simply
 
 * If a card's or card effect's activation condition says "_When ..._" this automatically means that 
 in order for the activation condition to be satisfied and activate the card/effect the condition described 
