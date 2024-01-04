@@ -2,13 +2,25 @@
 
 Certain card effects (that includes both Monster and Spell/Trap card effects) can "miss timing".
 
-To put it simply if a card effect's activation condition says "When ..." this automatically means that 
+To put it simply if a card effect's activation condition says "_When ..._" this automatically means that 
 in order for the activation condition to be satisfied and activate the card/effect the condition described 
 **must** be the last thing that happens in the Chain.
 
-If a card effect's activation condition says  "If ..." this means that no matter if the activation 
+If a card effect's activation condition says  "_If ..._" this means that no matter if the activation 
 condition was or wasn't the last thing to happen in the chain, the effect can still be activated in 
 a new chain once the current chain resolves.
+
+> [!IMPORTANT]
+> Since original prints of GOAT cards all read "When ..." it may be difficult to tell if an effect is 
+> actually "When..." or if it's actually an "If...". In that case know that mandatory monster effects 
+> **cannot** miss timing (so even if the effect reads "When" it's really an "If"), so that's one way to tell. 
+> It is always better to try to read a card's updated text from later reprints, since there is a clear 
+> distinction between "When..." and "If..." effects.
+
+> [!IMPORTANT]
+> "the last thing that happens in the Chain" also includes effects that do 2 things in sequence but 
+> in the same Chain Link. For more info and examples read [this](https://yugiohblog.konami.com/articles/?p=4514#:~:text=Example%3A%20Heraldry%20Change)
+
 
 ## Example 1: "When" not missing the timing
 
@@ -54,3 +66,5 @@ Sacred Crane text reads:
 
 After the above chain resolves Sacred Crane's effect trigger condition has been satisfied, so it 
 activates in a new Chain as Chain Link 1.
+
+

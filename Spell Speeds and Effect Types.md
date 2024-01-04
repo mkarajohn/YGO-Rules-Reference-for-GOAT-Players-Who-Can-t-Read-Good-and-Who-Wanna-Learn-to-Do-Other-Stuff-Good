@@ -10,7 +10,7 @@ The game has the following Monster effect types:
 > **Does not create a Chain Link**
 
 These are effects that start applying immediately once the monster is successfully summoned 
-("successfully" = its summon was not negated, otherwise it was successfully summoned, even if it 
+("successfully" means its summon was not negated, otherwise it was successfully summoned, even if it 
 was immediately destroyed).
 
 ### Trigger effects
@@ -69,6 +69,13 @@ Includes Normal, Continuous, Equip, Field and Ritual Spell cards, Trigger and Ig
   2. **Non-turn player's mandatory effects**. If there's more than 1 the non-turn player chooses the order.
   3. **Turn player's optional effects**. If there's more than 1 the turn player chooses the order.
   4. **Non-turn player's optional effects**. If there's more than 1 the non-turn player chooses the order.
+
+> [!WARNING]
+>In Goat Format, simultaneous effects work exactly as stated above, with one additional caveat: when two effects were triggered at different times, the earlier trigger(s) must be placed on the Chain before the later ones. So in other words, if two mandatory effects are triggered in sequence, whether as part of a Chain resolution or through some other action, you will construct the resulting Chain by going through the "steps" above for each "time" an effect(s) was triggered. Because of specific rule quirks governing the activation of optional trigger effects (missing the timing), this will basically only ever come up in “steps” 1 and 2. 
+>
+>Example 1: Player A tributes their Sangan to Tribute Summon Thestalos the Firestorm Monarch. In the resulting Chain, Sangan’s mandatory Trigger Effect will be Chain Link 1, and Thestalos’s mandatory Trigger Effect will be Chain Link 2.
+>
+>Example 2: Player A activates Soul Exchange, targeting Player B’s Sangan. Player A Tributes Player B’s Sangan to Tribute Summon Thestalos the Firestorm Monarch. In the resulting Chain, Sangan’s mandatory Trigger Effect will be Chain Link 1, and Thestalos’s mandatory Trigger Effect will be Chain Link 2.
 
 ### Spell Speed 2
 
