@@ -9,7 +9,7 @@ All in all, all you need is to understand the following flow chart:
 ![](../images/turn_flowchart.png)
 
 >[!IMPORTANT]
-> In GOAT format players can also activate [Ignition Effects](./Spell%20Speeds%20and%20Effect%20Types.md) while 
+> In GOAT format the turn player can also activate [Ignition Effects](./Spell%20Speeds%20and%20Effect%20Types.md) while 
 > the timing is in **Box B**. That's all. That's the only difference with Advanced Format.
 
 ## Some things to keep in mind
