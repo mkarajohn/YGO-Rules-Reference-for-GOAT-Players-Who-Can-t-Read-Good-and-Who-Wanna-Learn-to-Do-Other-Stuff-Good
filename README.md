@@ -1,6 +1,6 @@
 # YGO Rules Reference for GOAT Players Who Can't Read Good and Who Wanna Learn to Do Other Stuff Good
 
-This document is meant to highlight some general rules/concepts that are often missed by GOAT players
+This document is meant to highlight some general rules/concepts that are often missed by GOAT players.
 
 For GOAT specific rulings and interactions you can read the following:
 
@@ -9,7 +9,7 @@ For GOAT specific rulings and interactions you can read the following:
 
 ## Contents
 
-This is just a table of contents for reference, there is no specific read order
+This is just a table of contents for reference, in no specific order
 
 * [Priority](./contents/Priority.md)
 * [Spell Speeds and Effect Types](./contents/Spell%20Speeds%20and%20Effect%20Types.md)
