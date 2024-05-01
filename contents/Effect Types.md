@@ -40,8 +40,7 @@ These are[Spell Speed 1](./Spell%20Speeds.md) effects that the turn player can c
 > **Creates a Chain Link**
 
 These are [Spell Speed 2](./Spell%20Speeds.md) effects that are very similar to ignition effects with the exception that 
-they can be activated whenever a Spell Speed 2 effect can be activated. (AFAIK, in GOAT format only 
-Kuriboh has a Quick Effect) 
+they can be activated whenever a Spell Speed 2 effect can be activated.
 
 ## Spell/Trap Effect Types
 
